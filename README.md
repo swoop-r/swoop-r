@@ -1,35 +1,37 @@
-Welcome to My GitHub
+# GitHub Repository
 
-🔐 Cybersecurity | Risk Management | Secure Development
+## Cybersecurity | Risk Management | Secure Development
 
-Welcome to my GitHub repository, where security meets innovation. My work focuses on cybersecurity, risk management, and secure software development. Here, you'll find projects that explore vulnerabilities, defensive security strategies, and solutions to mitigate risk in modern digital environments.
+This repository contains work focused on cybersecurity, risk management, and secure software development practices. Projects explore vulnerability analysis, defensive security strategies, and risk mitigation approaches.
 
-🛠️ Areas of Interest
+## Focus Areas
 
-Threat Modeling & Risk Assessment – Identifying, analyzing, and mitigating security risks in various systems.
+**Threat Modeling & Risk Assessment** – Analyzing and mitigating security risks across different systems and architectures.
 
-Secure Software Development – Writing and analyzing code with security best practices in mind.
+**Secure Software Development** – Implementing security-first development practices and secure coding standards.
 
-Penetration Testing & Vulnerability Research – Exploring security flaws to strengthen defenses.
+**Penetration Testing & Vulnerability Research** – Identifying and documenting security vulnerabilities to improve defensive postures.
 
-Cryptography & Data Protection – Ensuring data integrity, confidentiality, and authenticity.
+**Cryptography & Data Protection** – Applying cryptographic principles to ensure data confidentiality, integrity, and authenticity.
 
-Security Automation – Implementing automation to enhance security processes and efficiency.
+**Security Automation** – Developing automated solutions for security testing and monitoring.
 
-📂 Notable Projects
+## Selected Projects
 
-RSS Podcasts App – Developed a secure web application utilizing REST APIs and JWT authentication to ensure a safe environment for users accessing and managing their podcast subscriptions.
+**mnpass** – Local mnemonic password generator built for auditable, client-side password generation without reliance on third-party services.
 
-Historical Cipher Encoder/Decoder – Implemented an application that encodes and decodes messages using Washington’s codex and a cipher from the Civil War, showcasing the intersection of cryptographic history and modern security principles.
+**RSS Podcasts App** – Web application implementing REST APIs and JWT authentication for secure podcast subscription management.
 
-📖 Learning & Collaboration
+**Historical Cipher Tool** – Encoder/decoder application utilizing Washington's codex and Civil War-era ciphers, demonstrating cryptographic principles in practice.
 
-Cybersecurity is a constantly evolving field, and I actively engage in research, testing, and development to stay ahead of emerging threats. Collaboration and knowledge-sharing are key to strengthening security—feel free to explore my repositories, contribute, or reach out for discussions.
+## Collaboration
 
-📜 Disclaimer
+Contributions and discussions are welcome. Feel free to explore repositories, open issues, or submit pull requests.
 
-All projects and research shared here are intended for educational and ethical security purposes only. Unauthorized or unethical use of any code or techniques is strictly discouraged.
+## Disclaimer
 
-“Every program and every privileged user of the system should operate using the least amount of privilege necessary to complete the job.” – Saltzer & Schroeder
+All code and research is provided for educational and authorized security testing purposes only. Unauthorized use is prohibited.
 
-Or as I like to say, ‘A well-guarded network is like a sleeping wolf—silent, watchful, and ready to strike when threats emerge.’
+---
+
+*"Every program and every privileged user of the system should operate using the least amount of privilege necessary to complete the job."* – Saltzer & Schroeder
