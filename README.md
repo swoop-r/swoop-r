@@ -20,9 +20,7 @@ This repository contains work focused on cybersecurity, risk management, and sec
 
 **mnpass** – Local mnemonic password generator built for auditable, client-side password generation without reliance on third-party services.
 
-**RSS Podcasts App** – Web application implementing REST APIs and JWT authentication for secure podcast subscription management.
-
-**Historical Cipher Tool** – Encoder/decoder application utilizing Washington's codex and Civil War-era ciphers, demonstrating cryptographic principles in practice.
+**CMS Data Analysis** – Python-based analysis of Centers for Medicare & Medicaid Services hospital data, including data normalization, exploratory analysis, and visualization of healthcare metrics.
 
 ## Collaboration
 
